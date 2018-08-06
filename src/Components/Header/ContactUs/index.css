@@ -1,0 +1,16 @@
+.ContactUs {
+    color: #FFFFFF;
+    width: 15%;
+    display: inline-block;
+    font-size: 12px;
+    float: right;
+    margin-right: 5%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.ContactUs:hover {
+    font-size: 14px;
+    width: 18%;
+    background-color: #2e2e2e;
+}

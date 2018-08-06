@@ -1,0 +1,74 @@
+.homePage {
+    background-color: white;
+    height: 550px;
+}
+
+.banner {
+    background-color: #303030;
+    height: 300px;
+}
+
+.bannerTextBox {
+    width: 50%;
+    float: left;
+}
+
+.bannerTitle {
+    color: white;
+    padding: 43px 100px;
+    font-size: 35px;
+    font-family: tahoma;
+}
+
+.bannerText {
+    color: white;
+    font-family: tahoma;
+    padding: 0px 100px;
+}
+
+.banner button {
+    background-color: rgb(61, 194, 61);
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 6px 16px;
+    transition: 0.3s;
+    width: 60%;
+    margin: 30px 100px;
+    color: white;
+    font-size: 20px;
+}
+
+.homePageText {
+    font-family: tahoma;
+    padding: 39px 100px;
+    color: #2e2e2e;
+}
+
+.homePageServiceFeature {
+    font-family: tahoma;
+    color: #2e2e2e;
+    height: 550px;
+    background-color: #eaeaea;
+    height: 280px;
+}
+
+.homePageServiceFeatureTitle {
+    font-family: tahoma;
+    padding: 20px 29%;
+    font-size: 30px;
+    color: #2e2e2e;
+    text-align: center;
+}
+
+.homePageServiceFeatureText {
+    font-family: tahoma;
+    padding: 20px 100px;
+    color: #2e2e2e;
+}
+
+.locationMap {
+    height: 280px;
+    background-color: white;
+}
